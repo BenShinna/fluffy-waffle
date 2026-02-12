@@ -194,7 +194,7 @@ export const footerConfig: FooterConfig = {
 };
 
 export const sidebarLayoutConfig: SidebarLayoutConfig = {
-  position: "both",
+  position: "right",
   components: [
     {
       type: "profile",
